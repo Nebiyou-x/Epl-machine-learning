@@ -1,8 +1,6 @@
 # Epl-machine-learning
 
-Requirments to run
-1.Pyhton3
-2. Selenium and chromedriver if you use the scraper using selenium if not 
+used Jupyter notebook and Colab
 ###for machine learner inputs
 import pandas as pd
 import numpy as np
